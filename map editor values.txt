@@ -1,0 +1,7 @@
+'0' - empty
+'1' - wall
+'2' - spawn
+'3' - exit
+'item_' - item (syntax: item_[type]_[color])
+'door_' - door (syntax: door_[status]_[color])
+'enemy_' - enemy spawn (syntax: enemy_[type])
